@@ -1,0 +1,44 @@
+
+#perfil{
+    max-width: 15%;
+    max-height: 10%;
+    border-radius: 80%;
+    margin-left: 42%;
+    
+}
+.titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.subtitulos{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    margin: 0px;
+    padding: 1px;
+    border-radius: 10px;
+}
+body {
+    background-color: white
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+}
+.resumo{
+    text-align: justify;
+}
+.rodapé{
+    text-align:center ;
+    background-color: black;
+    color: white;
+    padding: 4px;
+    margin: 0px;
+    border-radius: 10px;
+}
+.rodapé > p {
+    margin: 0px;
+}
+
+
+
